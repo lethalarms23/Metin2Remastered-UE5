@@ -88,3 +88,5 @@
 [0803/205117.378:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0803/205117.378:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0803/205117.660:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 111
+[0804/212301.665:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0804/212305.166:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
