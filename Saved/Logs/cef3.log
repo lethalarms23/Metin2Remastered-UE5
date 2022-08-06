@@ -90,3 +90,36 @@
 [0803/205117.660:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 111
 [0804/212301.665:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [0804/212305.166:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0805/211029.422:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0805/211048.935:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0805/211048.935:ERROR:entry_impl.cc(1076)] No file for c103046a
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:ERROR:entry_impl.cc(1076)] No file for c103046c
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.935:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:ERROR:entry_impl.cc(1076)] No file for c1030466
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:ERROR:entry_impl.cc(1076)] No file for c103046e
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:ERROR:entry_impl.cc(1076)] No file for c1030470
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.936:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211048.985:WARNING:storage_block-inl.h(146)] Failed data load.
+[0805/211238.143:ERROR:device_event_log_impl.cc(208)] [21:12:38.142] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0805/211315.815:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0805/211315.827:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0805/211315.875:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0805/211315.875:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
