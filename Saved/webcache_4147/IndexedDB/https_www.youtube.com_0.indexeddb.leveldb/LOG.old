@@ -1,5 +1,0 @@
-2022/08/03-20:51:18.692 32f0 Reusing MANIFEST D:/Unreal Projects/Metin2Remaster/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/08/03-21:05:31.219 c14 Level-0 table #5: started
-2022/08/03-21:05:31.311 c14 Level-0 table #5: 7131 bytes OK
-2022/08/03-21:05:31.374 c14 Delete type=0 #3
-2022/08/03-21:05:31.374 c14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

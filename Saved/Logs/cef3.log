@@ -123,3 +123,48 @@
 [0805/211315.827:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0805/211315.875:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0805/211315.875:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0812/093140.916:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0812/093144.376:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093211.636:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0812/093211.637:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0812/093220.563:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0812/093220.563:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0812/093220.564:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0812/093225.052:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0812/093225.052:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0812/093225.052:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0812/093225.052:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0812/093225.162:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 55
+[0812/093225.162:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 57
+[0812/093225.451:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093225.454:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093225.457:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093225.459:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093228.161:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093228.163:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093228.166:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/093228.167:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/095246.681:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/095246.684:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:/Epic Games/UnrealProjects/Metin2Remastered-UE5/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/124750.613:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/131451.885:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0812/152826.629:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
